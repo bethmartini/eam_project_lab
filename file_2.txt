@@ -1,2 +1,3 @@
 line1 of my file2
 line2 of my file2
+Adding line3 to file2
